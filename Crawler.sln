@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlerIO.Lib", "CrawlerIO.Lib\CrawlerIO.Lib.csproj", "{B0E8B13A-0E0C-4FC6-8845-D9E0007588BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlerIO.UI", "CrawlerIO.UI\CrawlerIO.UI.csproj", "{2A9E2D0D-0DD0-42B8-8AE0-6D31CE06F86E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlerIO.Data", "CrawlerIO.Data\CrawlerIO.Data.csproj", "{D541815B-A91B-4DCD-A9DE-985E2B343F97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E8B13A-0E0C-4FC6-8845-D9E0007588BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E8B13A-0E0C-4FC6-8845-D9E0007588BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E8B13A-0E0C-4FC6-8845-D9E0007588BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E8B13A-0E0C-4FC6-8845-D9E0007588BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9E2D0D-0DD0-42B8-8AE0-6D31CE06F86E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9E2D0D-0DD0-42B8-8AE0-6D31CE06F86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9E2D0D-0DD0-42B8-8AE0-6D31CE06F86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9E2D0D-0DD0-42B8-8AE0-6D31CE06F86E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D541815B-A91B-4DCD-A9DE-985E2B343F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D541815B-A91B-4DCD-A9DE-985E2B343F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D541815B-A91B-4DCD-A9DE-985E2B343F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D541815B-A91B-4DCD-A9DE-985E2B343F97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
