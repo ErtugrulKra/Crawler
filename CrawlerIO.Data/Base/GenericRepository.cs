@@ -8,8 +8,7 @@ using System.Threading.Tasks;
 
 namespace CrawlerIO.Data.Base
 {
-    public abstract class GenericRepository<C, T> :
-    IGenericRepository<T>
+    public abstract class GenericRepository<C, T> : IGenericRepository<T>
         where T : class
         where C : DbContext, new()
     {

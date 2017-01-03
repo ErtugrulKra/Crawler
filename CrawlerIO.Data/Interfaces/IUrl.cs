@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CrawlerIO.Data.Interfaces
 {
-    interface IUrl:Base.IGenericRepository<Urls>
+    interface IUrl : Base.IGenericRepository<Urls>
     {
         Urls GetSingle(int pk);
     }
